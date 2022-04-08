@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/736x/9d/5e/18/9d5e189e2c0e35fd86a2a6acdd47371b.jpg)]
 <h1 align="center">Hi 👋, I'm Lokesh Arora</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img align="right" alt="coding" width="400" src=https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<img align="right" alt="coding" width="400" src=https://data-science-blog.com/wp-content/uploads/2020/11/happy-coder.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokitalk&label=Profile%20views&color=0e75b6&style=flat" alt="lokitalk" /> </p>
 
